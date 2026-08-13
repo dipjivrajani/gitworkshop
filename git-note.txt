@@ -1,0 +1,29 @@
+first create file using touch with file name
+then u can add anything in file
+then git add index.html
+if multiple file want to add then
+git add.
+git commit -m "message"
+git push -u origin main
+
+-----------------
+Branching
+-----------------
+
+dipji@Dip MINGW64 /d/Git-workshop (main)
+$ touch .gitignore
+
+dipji@Dip MINGW64 /d/Git-workshop (main)
+$ git branch feature-1
+
+dipji@Dip MINGW64 /d/Git-workshop (main)
+$ git branch 
+  feature-1
+* main
+
+dipji@Dip MINGW64 /d/Git-workshop (main)
+$ git switch feature-1 
+Switched to branch 'feature-1'
+
+dipji@Dip MINGW64 /d/Git-workshop (feature-1)
+$ 
