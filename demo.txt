@@ -1,1 +1,1 @@
-wokshop topic : git
+wokshop topic : git workshop
